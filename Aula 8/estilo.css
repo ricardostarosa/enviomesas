@@ -1,0 +1,42 @@
+input {
+  width: 100%;
+  display: block;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+button {
+  padding: 10px;
+  margin-left: 10px;
+}
+
+h1 {
+  display: inline-block;
+  text-align: center;
+  margin-left: 45%;
+}
+
+form {
+  background-color: darkkhaki;
+  width: 500px;
+  padding: 50px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+em {
+  color: red;
+  font-weight: bold;
+}
